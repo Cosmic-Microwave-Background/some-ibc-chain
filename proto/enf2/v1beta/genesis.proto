@@ -1,0 +1,9 @@
+syntax = "proto3";
+package enf2.enf2.v1beta1;
+
+option go_package = "github.com/enflow.io/enf2/x/enf2/types";
+
+// GenesisState defines the capability module's genesis state.
+message GenesisState {
+}
+
